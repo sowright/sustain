@@ -18,12 +18,12 @@ author: Sofia Wright
 description: Personal blog and resume
 avatar: profile.png
 email: yourname@email.com
-github: biomadeira/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+github: sowright # username
+twitter: amok_turtle
+linkedin: sofiawright
+#stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-disqus: username
+#disqus: username
 google_analytics: UA-69391421-1
 
 
